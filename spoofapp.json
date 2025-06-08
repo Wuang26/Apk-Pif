@@ -151,7 +151,8 @@
     "PRODUCT": "TB-9707F"
   },
   "PACKAGES_GALAXY_S24_ULTRA": [
-    "com.ea.gp.fifamobile"
+    "com.ea.gp.fifamobile",
+    "com.facebook.orca"
   ],
   "PACKAGES_GALAXY_S24_ULTRA_DEVICE": {
     "BRAND": "Samsung",
