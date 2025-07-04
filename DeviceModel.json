@@ -67,7 +67,7 @@
       "MANUFACTURER": "nubia",
       "MODEL": "NX769J",
       "FINGERPRINT": "nubia/NX769J/NX769J:14/UKQ1.230804.001/123456:user/release-keys",
-      "PRODUCT": "NX769J",
+      "PRODUCT"{: "NX769J",
       "BOARD": "kona"
     },
     {
@@ -75,10 +75,20 @@
       "BRAND": "Lenovo",
       "DEVICE": "Halo",
       "MANUFACTURER": "Lenovo",
-      "MODEL": "Lenovo L71061",
+      "MODEL": "L71061",
       "FINGERPRINT": "Lenovo/Halo/Halo:14/UKQ1.230804.001/123456:user/release-keys",
       "PRODUCT": "Halo",
       "BOARD": "kona"
+    },
+    {
+      "name": "Realme P3 5G",
+      "BRAND": "realme",
+      "DEVICE": "kbi",
+      "MANUFACTURER": "realme",
+      "MODEL": "RMX5070",
+      "FINGERPRINT": "realme/kbi/RE58B4L1:14/UKQ1.230804.001/1715073230894:user/release-keys",
+      "PRODUCT": "RE58B4L1",
+      "BOARD": "kbi"
     }
   ]
 }
