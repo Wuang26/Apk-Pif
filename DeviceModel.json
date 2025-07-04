@@ -1,0 +1,84 @@
+{
+  "devices": [
+    {
+      "name": "Pixel 8 Pro",
+      "BRAND": "google",
+      "DEVICE": "husky",
+      "MANUFACTURER": "Google",
+      "MODEL": "Pixel 8 Pro",
+      "FINGERPRINT": "google/husky/husky:14/AP1A.240505.004/12345678:user/release-keys",
+      "PRODUCT": "husky",
+      "BOARD": "husky"
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "BRAND": "samsung",
+      "DEVICE": "dm3q",
+      "MANUFACTURER": "Samsung",
+      "MODEL": "SM-S918B",
+      "FINGERPRINT": "samsung/dm3q/dm3q:14/UP1A.231005.007/123456:user/release-keys",
+      "PRODUCT": "dm3qxx",
+      "BOARD": "dm3q"
+    },
+    {
+      "name": "Xiaomi 14 Ultra",
+      "BRAND": "Xiaomi",
+      "DEVICE": "aurora",
+      "MANUFACTURER": "Xiaomi",
+      "MODEL": "2314",
+      "FINGERPRINT": "Xiaomi/aurora/aurora:14/UKQ1.240213.002/234:user/release-keys",
+      "PRODUCT": "aurora",
+      "BOARD": "aurora"
+    },
+    {
+      "name": "ASUS ROG Phone 8 Pro",
+      "BRAND": "asus",
+      "DEVICE": "AI2401",
+      "MANUFACTURER": "ASUS",
+      "MODEL": "ASUS_AI2401",
+      "FINGERPRINT": "asus/AI2401/AI2401:14/UP1A.231005.007/123456:user/release-keys",
+      "PRODUCT": "AI2401",
+      "BOARD": "kona"
+    },
+    {
+      "name": "OnePlus 12",
+      "BRAND": "OnePlus",
+      "DEVICE": "op12",
+      "MANUFACTURER": "OnePlus",
+      "MODEL": "CPH2573",
+      "FINGERPRINT": "OnePlus/op12/op12:14/UKQ1.230804.001/123456:user/release-keys",
+      "PRODUCT": "op12",
+      "BOARD": "kona"
+    },
+    {
+      "name": "iQOO 12 Pro",
+      "BRAND": "vivo",
+      "DEVICE": "PD2309",
+      "MANUFACTURER": "vivo",
+      "MODEL": "V2329A",
+      "FINGERPRINT": "vivo/PD2309/PD2309:14/UKQ1.230804.001/123456:user/release-keys",
+      "PRODUCT": "PD2309",
+      "BOARD": "kona"
+    },
+    {
+      "name": "Red Magic 9 Pro",
+      "BRAND": "nubia",
+      "DEVICE": "NX769J",
+      "MANUFACTURER": "nubia",
+      "MODEL": "NX769J",
+      "FINGERPRINT": "nubia/NX769J/NX769J:14/UKQ1.230804.001/123456:user/release-keys",
+      "PRODUCT": "NX769J",
+      "BOARD": "kona"
+    },
+    {
+      "name": "Lenovo Legion Y90",
+      "BRAND": "Lenovo",
+      "DEVICE": "Halo",
+      "MANUFACTURER": "Lenovo",
+      "MODEL": "Lenovo L71061",
+      "FINGERPRINT": "Lenovo/Halo/Halo:14/UKQ1.230804.001/123456:user/release-keys",
+      "PRODUCT": "Halo",
+      "BOARD": "kona"
+    }
+  ]
+}
