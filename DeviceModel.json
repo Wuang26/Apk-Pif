@@ -103,7 +103,7 @@
     {
       "name": "OnePlus 8 Pro 5G",
       "BRAND": "OnePlus",
-      "DEVICE": "OnePlus 8 Pro 5G",
+      "DEVICE": "IN2023",
       "MANUFACTURER": "OnePlus",
       "MODEL": "IN2023",
       "FINGERPRINT": "OnePlus/IN2023/OnePlus8Pro:13/RKQ1.211119.001/20230501:user/release-keys",
@@ -113,7 +113,7 @@
     {
       "name": "OnePlus 9 Pro 5G",
       "BRAND": "OnePlus",
-      "DEVICE": "OnePlus 9 Pro 5G",
+      "DEVICE": "LE2123",
       "MANUFACTURER": "OnePlus",
       "MODEL": "LE2123",
       "FINGERPRINT": "OnePlus/LE2123/OnePlus9Pro:14/UP1A.231005.007/20240115:user/release-keys",
@@ -123,12 +123,12 @@
     {
       "name": "OnePlus 13",
       "BRAND": "OnePlus",
-      "DEVICE": "OnePlus 13",
+      "DEVICE": "PJD110",
       "MANUFACTURER": "OnePlus",
-      "MODEL": "PJZ110",
-      "FINGERPRINT": "OnePlus/PJZ110/OP5D0DL1:15/AP3A.240617.008/V.1bd19a1-1-2:user/release-keys",
-      "PRODUCT": "PJZ110",
-      "BOARD": "PJZ110"
+      "MODEL": "PJD110",
+      "FINGERPRINT": "OnePlus/PJD110/OP5D0DL1:15/AP3A.240617.008/V.1bd19a1-1-2:user/release-keys",
+      "PRODUCT": "PJD110",
+      "BOARD": "PJD110"
     },
     {
       "name": "POCO F5",
