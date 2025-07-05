@@ -25,8 +25,8 @@
       "BRAND": "Xiaomi",
       "DEVICE": "aurora",
       "MANUFACTURER": "Xiaomi",
-      "MODEL": "24031PN0DC",
-      "FINGERPRINT": "Xiaomi/aurora/aurora:14/UKQ1.240213.002/234:user/release-keys",
+      "MODEL": "24030PN60G",
+      "FINGERPRINT": "Xiaomi/aurora/aurora:14/UKQ1.240523.001/OS2.0.102.0.VNAEUXM:user/release-keys",
       "PRODUCT": "aurora",
       "BOARD": "aurora"
     },
@@ -96,7 +96,7 @@
       "DEVICE": "xuanyuan",
       "MANUFACTURER": "Xiaomi",
       "MODEL": "25010PN30G",
-      "FINGERPRINT": "Xiaomi/xuanyuan_eea/xuanyuan:15/AQ3A.240912.001/OS2.0.10.0.VOAEUXM:user/release-keys",
+      "FINGERPRINT": "Xiaomi/xuanyuan/xuanyuan:15/AQ3A.240912.001/OS2.0.10.0.VOAEUXM:user/release-keys",
       "PRODUCT": "xuanyuan",
       "BOARD": "xuanyuan"
     }
