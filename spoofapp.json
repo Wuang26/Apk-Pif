@@ -183,5 +183,18 @@
     "MODEL": "PJZ110",
     "FINGERPRINT": "OnePlus/PJZ110/OP5D0DL1:15/AP3A.240617.008/V.1bd19a1-1-2:user/release-keys",
     "PRODUCT": "PJZ110"
-  }
+  },
+  "PACKAGES_REALME_P3_5G": [
+    "com.dts.freefiremax",
+    "com.dts.freefireth"
+  ],
+"PACKAGES_REALME_P3_5G_DEVICE": {
+    "BRAND": "realme",
+    "DEVICE": "kbi",
+    "MANUFACTURER": "realme",
+    "MODEL": "RMX5070",
+    "FINGERPRINT": "realme/kbi/RE58B4L1:14/UKQ1.230804.001/1715073230894:user/release-keys",
+    "PRODUCT": "RE5824031PN0DCB4L1",
+  "BOARD": "kbi"
+}
 }
