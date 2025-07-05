@@ -84,10 +84,10 @@
       "name": "Red Magic 9 Pro",
       "BRAND": "nubia",
       "DEVICE": "NX769J",
-      "MANUFACTURER": "nubia",
+      "MANUFACTURER": "ZTE",
       "MODEL": "NX769J",
-      "FINGERPRINT": "nubia/NX769J-EEA/NX769J:14/UKQ1.230917.001/20250411.235340:user/release-keys",
-      "PRODUCT": "NX769J-EEA",
+      "FINGERPRINT": "nubia/NX769J/NX769J:14/UKQ1.230917.001/20240813.173312:user/release-keys",
+      "PRODUCT": "NX769J",
       "BOARD": "NX769J"
     },
     {
@@ -129,6 +129,126 @@
       "FINGERPRINT": "asus/WWAI2501/ASUSAI2501:15/AQ3A.240829.003/35.1810.1810.346-0:user/release-keys",
       "PRODUCT": "ASUSAI2501",
       "BOARD": "ASUSAI2501"
+    },
+    {
+      "name": "Black Shark 4 (China)",
+      "BRAND": "Black Shark",
+      "DEVICE": "Black Shark 4 (China)",
+      "MANUFACTURER": "Xiaomi",
+      "MODEL": "2SM-X706B",
+      "FINGERPRINT": "BlackShark/PRS-H0/Black Shark 4:13/TQ3A.230805.001/20230315:user/release-keys",
+      "PRODUCT": "2SM-X706B",
+      "BOARD": "2SM-X706B"
+    },
+    {
+      "name": "Xiaomi 11T Pro",
+      "BRAND": "Xiaomi",
+      "DEVICE": "Xiaomi 11T Pro",
+      "MANUFACTURER": "Xiaomi",
+      "MODEL": "2107113SG",
+      "FINGERPRINT": "Xiaomi/2107113SI/Mi 11T Pro:13/RKQ1.211001.001/20230410:user/release-keys",
+      "PRODUCT": "2107113SG",
+      "BOARD": "2107113SG"
+    },
+    {
+      "name": "Xiaomi 13 Pro",
+      "BRAND": "Xiaomi",
+      "DEVICE": "Xiaomi 13 Pro",
+      "MANUFACTURER": "Xiaomi",
+      "MODEL": "2210132G",
+      "FINGERPRINT": "Xiaomi/fuxi_eea/fuxi:13/TKQ1.221114.001/OS2.0.102.0.VMCEUXM:user/release-keys",
+      "PRODUCT": "2210132G",
+      "BOARD": "2210132G"
+    },
+    {
+      "name": "OnePlus 8 Pro 5G",
+      "BRAND": "OnePlus",
+      "DEVICE": "OnePlus 8 Pro 5G",
+      "MANUFACTURER": "OnePlus",
+      "MODEL": "IN2023",
+      "FINGERPRINT": "OnePlus/IN2023/OnePlus8Pro:13/RKQ1.211119.001/20230501:user/release-keys",
+      "PRODUCT": "IN2023",
+      "BOARD": "IN2023"
+    },
+    {
+      "name": "OnePlus 9 Pro 5G",
+      "BRAND": "OnePlus",
+      "DEVICE": "OnePlus 9 Pro 5G",
+      "MANUFACTURER": "OnePlus",
+      "MODEL": "LE2123",
+      "FINGERPRINT": "OnePlus/LE2123/OnePlus9Pro:14/UP1A.231005.007/20240115:user/release-keys",
+      "PRODUCT": "LE2123",
+      "BOARD": "LE2123"
+    },
+    {
+      "name": "POCO F5",
+      "BRAND": "POCO",
+      "DEVICE": "POCO F5",
+      "MANUFACTURER": "Xiaomi",
+      "MODEL": "23049PCD8G",
+      "FINGERPRINT": "POCO/23049PCD8G/POCOF5:13/TQ3A.230805.001/20230620:user/release-keys",
+      "PRODUCT": "23049PCD8G",
+      "BOARD": "23049PCD8G"
+    },
+    {
+      "name": "ROG Phone 5s",
+      "BRAND": "ASUS",
+      "DEVICE": "ROG Phone 5s",
+      "MANUFACTURER": "ASUS",
+      "MODEL": "ZS676KS",
+      "FINGERPRINT": "ASUS/ZS676KS/ROG Phone 5s:12/SKQ1.210821.001/20220810:user/release-keys",
+      "PRODUCT": "ZS676KS",
+      "BOARD": "ZS676KS"
+    },
+    {
+      "name": "ROG Phone 6D Ultimate",
+      "BRAND": "ASUS",
+      "DEVICE": "ROG Phone 6D Ultimate",
+      "MANUFACTURER": "ASUS",
+      "MODEL": "AI2203",
+      "FINGERPRINT": "ASUS/AI2203/ROG Phone 6D:14/UP1A.231005.007/20240315:user/release-keys",
+      "PRODUCT": "AI2203",
+      "BOARD": "AI2203"
+    },
+    {
+      "name": "Legion Y700 (2023)",
+      "BRAND": "Lenovo",
+      "DEVICE": "Legion Y700 (2023)",
+      "MANUFACTURER": "Lenovo",
+      "MODEL": "TB-9707F",
+      "FINGERPRINT": "Lenovo/TB-9707F/Lenovo TB-9707F:13/TQ3A.230805.001/20230901:user/release-keys",
+      "PRODUCT": "TB-9707F",
+      "BOARD": "TB-9707F"
+    },
+    {
+      "name": "Galaxy S24 Ultra",
+      "BRAND": "Samsung",
+      "DEVICE": "Galaxy S24 Ultra",
+      "MANUFACTURER": "Samsung",
+      "MODEL": "SM-S928B",
+      "FINGERPRINT": "samsung/SM-S928B/SM-S928B:14/UP1A.231005.007/20240225:user/release-keys",
+      "PRODUCT": "SM-S928B",
+      "BOARD": "SM-S928B"
+    },
+    {
+      "name": "Xiaomi 13",
+      "BRAND": "Xiaomi",
+      "DEVICE": "Xiaomi 13",
+      "MANUFACTURER": "Xiaomi",
+      "MODEL": "2211133G",
+      "FINGERPRINT": "Xiaomi/fuxi_eea/fuxi:13/TKQ1.221114.001/OS2.0.102.0.VMCEUXM:user/release-keys",
+      "PRODUCT": "2211133G",
+      "BOARD": "2211133G"
+    },
+    {
+      "name": "OnePlus 13",
+      "BRAND": "OnePlus",
+      "DEVICE": "OnePlus 13",
+      "MANUFACTURER": "OnePlus",
+      "MODEL": "PJZ110",
+      "FINGERPRINT": "OnePlus/PJZ110/OP5D0DL1:15/AP3A.240617.008/V.1bd19a1-1-2:user/release-keys",
+      "PRODUCT": "PJZ110",
+      "BOARD": "PJZ110"
     }
   ]
 }
