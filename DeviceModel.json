@@ -23,7 +23,7 @@
     {
       "name": "ROG Phone 5s",
       "BRAND": "ASUS",
-      "DEVICE": "ROG Phone 5s",
+      "DEVICE": "ZS676KS",
       "MANUFACTURER": "ASUS",
       "MODEL": "ZS676KS",
       "FINGERPRINT": "ASUS/ZS676KS/ROG Phone 5s:12/SKQ1.210821.001/20220810:user/release-keys",
@@ -33,7 +33,7 @@
     {
       "name": "ROG Phone 6D Ultimate",
       "BRAND": "ASUS",
-      "DEVICE": "ROG Phone 6D Ultimate",
+      "DEVICE": "AI2203",
       "MANUFACTURER": "ASUS",
       "MODEL": "AI2203",
       "FINGERPRINT": "ASUS/AI2203/ROG Phone 6D:14/UP1A.231005.007/20240315:user/release-keys",
@@ -43,7 +43,7 @@
     {
       "name": "Black Shark 4 (China)",
       "BRAND": "Black Shark",
-      "DEVICE": "Black Shark 4 (China)",
+      "DEVICE": "AI2203",
       "MANUFACTURER": "Xiaomi",
       "MODEL": "2SM-X706B",
       "FINGERPRINT": "BlackShark/PRS-H0/Black Shark 4:13/TQ3A.230805.001/20230315:user/release-keys",
@@ -73,9 +73,9 @@
     {
       "name": "Legion Y700 (2023)",
       "BRAND": "Lenovo",
-      "DEVICE": "Legion Y700 (2023)",
+      "DEVICE": "TB-9707F",
       "MANUFACTURER": "Lenovo",
-      "MODEL": "TB-9707F",
+      "MODEL": "Lenovo TB-9707F",
       "FINGERPRINT": "Lenovo/TB-9707F/Lenovo TB-9707F:13/TQ3A.230805.001/20230901:user/release-keys",
       "PRODUCT": "TB-9707F",
       "BOARD": "TB-9707F"
@@ -193,22 +193,22 @@
     {
       "name": "Xiaomi 13",
       "BRAND": "Xiaomi",
-      "DEVICE": "Xiaomi 13",
+      "DEVICE": "fuxi",
       "MANUFACTURER": "Xiaomi",
       "MODEL": "2211133G",
       "FINGERPRINT": "Xiaomi/fuxi_eea/fuxi:13/TKQ1.221114.001/OS2.0.102.0.VMCEUXM:user/release-keys",
-      "PRODUCT": "2211133G",
-      "BOARD": "2211133G"
+      "PRODUCT": "fuxi",
+      "BOARD": "fuxi"
     },
     {
       "name": "Xiaomi 13 Pro",
       "BRAND": "Xiaomi",
-      "DEVICE": "Xiaomi 13 Pro",
+      "DEVICE": "nuwa",
       "MANUFACTURER": "Xiaomi",
       "MODEL": "2210132G",
-      "FINGERPRINT": "Xiaomi/fuxi_eea/fuxi:13/TKQ1.221114.001/OS2.0.102.0.VMCEUXM:user/release-keys",
-      "PRODUCT": "2210132G",
-      "BOARD": "2210132G"
+      "FINGERPRINT": "Xiaomi/nuwa_global/nuwa:13/TKQ1.221114.001/OS2.0.100.0.VMBMIXM:user/release-keys",
+      "PRODUCT": "nuwa",
+      "BOARD": "nuwa"
     },
     {
       "name": "Xiaomi 14 Ultra",
