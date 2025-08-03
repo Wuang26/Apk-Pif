@@ -10,4 +10,3 @@ Nghe bài "Trình" chưa?
 Sắp Nổ!
 Toolbox by Kousei.
 Chạy ngay đi...
-Tuy Android là Open Source nhưng tùy biến nó như nào là điểm khác biệt ở mỗi Project.\nGiống nhau từ ý tưởng đến cách thực hiện chưa chắc là ăn cắp của nhau. Vì Android nó mở mà ai xem cũng được
