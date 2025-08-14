@@ -198,8 +198,10 @@
     "BOARD": "kbi"
 },
   "PACKAGES_REALME_15_PRO": [
-    "com.dts.freefiremax",
-    "com.dts.freefireth"
+    "com.garena.game.kgvn",
+    "com.garena.game.kgid",
+    "com.garena.game.kgth",
+    "com.tencent.ngjp"
   ],
 "PACKAGES_REALME_15_PRO_DEVICE": {
     "BRAND": "realme",
