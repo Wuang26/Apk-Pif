@@ -201,7 +201,8 @@
     "com.garena.game.kgvn",
     "com.garena.game.kgid",
     "com.garena.game.kgth",
-    "com.tencent.ngjp"
+    "com.tencent.ngjp",
+    "com.garena.game.kgtw"
   ],
 "PACKAGES_REALME_15_PRO_DEVICE": {
     "BRAND": "realme",
