@@ -196,5 +196,15 @@
     "FINGERPRINT": "realme/kbi/RE58B4L1:14/UKQ1.230804.001/1715073230894:user/release-keys",
     "PRODUCT": "RE5824031PN0DCB4L1",
     "BOARD": "kbi"
+},
+  "PACKAGES_REALME_15_PRO": [
+    "com.dts.freefiremax",
+    "com.dts.freefireth"
+  ],
+"PACKAGES_REALME_15_PRO_DEVICE": {
+    "BRAND": "realme",
+    "DEVICE": "Realme 15 Pro 5G",
+    "MANUFACTURER": "realme",
+    "MODEL": "RMX5101"
 }
 }
