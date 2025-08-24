@@ -249,6 +249,12 @@
       "FINGERPRINT": "google/komodo/komodo:15/BP1A.250405.005.A1/13151424:user/release-keys",
       "PRODUCT": "komodo",
       "BOARD": "komodo"
-    }
+    },
+    {
+      "name": "Realme 15 Pro 5G",
+      "BRAND": "realme",
+      "DEVICE": "Realme 15 Pro 5G",
+      "MODEL": "RMX5101",
+      "MANUFACTURER": "realme"
   ]
 }
