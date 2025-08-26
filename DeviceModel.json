@@ -154,8 +154,11 @@
       "name": "Realme 15 Pro 5G",
       "BRAND": "realme",
       "DEVICE": "Realme 15 Pro 5G",
+      "MANUFACTURER": "realme",
       "MODEL": "RMX5101",
-      "MANUFACTURER": "realme"
+      "FINGERPRINT": "realme/RMX5101IN/RE60B4L1:15/AP3A.240617.008/V.R4T2.26cec0e-80bb4e-80b757:user/release-keys",
+      "PRODUCT": "RE60B4L1",
+      "BOARD": "RMX5101IN"
     },
     {
       "name": "Samsung Galaxy S23 Ultra",
