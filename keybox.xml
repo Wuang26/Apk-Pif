@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <AndroidAttestation>
-<NumberOfKeyboxes>1</NumberOfKeyboxes>
-<Keybox DeviceID="">
-<Key algorithm="ecdsa">
-<PrivateKey format="pem">
+  <NumberOfKeyboxes>1</NumberOfKeyboxes>
+  <Keybox DeviceID="ms">
+    <Key algorithm="ecdsa">
+      <PrivateKey format="pem">
 -----BEGIN EC PRIVATE KEY-----
 MHcCAQEEIBInV+7nXl8EiMbx2Y0GQFbPRSe+Oh3v89wgqckSEN1soAoGCCqGSM49
 AwEHoUQDQgAEPyPdnMbkxd01suJVDwhpGawJPKXa/VshPg3XySzakVQ65PMVEuG/
 rFv2qQvU/x+tawP39qDVDk3AYc+W1hfYGg==
 -----END EC PRIVATE KEY-----
 </PrivateKey>
-<CertificateChain>
-<NumberOfCertificates>3</NumberOfCertificates>
-<Certificate format="pem">
+      <CertificateChain>
+        <NumberOfCertificates>3</NumberOfCertificates>
+        <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
 MIIB8jCCAXmgAwIBAgIQOMr0AwxKIDYvG5eSNUAzTTAKBggqhkjOPQQDAjA5MQww
 CgYDVQQMDANURUUxKTAnBgNVBAUTIGUwYzM1NDhhNDdlNzNmMmE3NWZiOWVkNmRh
@@ -27,7 +27,7 @@ b8FLVlnz1rIyOWaWTrdTmiPjEU4CMBpt+rUqat0zBYFB0wK4ksI/oxWGmmeT6gqZ
 kNwxRIXv+ab0GjZzbiiIOcywUNtI6g==
 -----END CERTIFICATE-----
 </Certificate>
-<Certificate format="pem">
+        <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
 MIIDkzCCAXugAwIBAgIQFk/xbbOK0z0ZBF99wwx/zDANBgkqhkiG9w0BAQsFADAb
 MRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MB4XDTIwMDkyODIwMTc0OVoXDTMw
@@ -83,10 +83,10 @@ ZutL8VuFkERQGt6vQ2OCw0sV47VMkuYbacK/xyZFiRcrPJPb41zgbQj9XAEyLKCH
 ex0SdDrx+tWUDqG8At2JHA==
 -----END CERTIFICATE-----
 </Certificate>
-</CertificateChain>
-</Key>
-<Key algorithm="rsa">
-<PrivateKey format="pem">
+      </CertificateChain>
+    </Key>
+    <Key algorithm="rsa">
+      <PrivateKey format="pem">
 -----BEGIN RSA PRIVATE KEY-----
 MIIG5QIBAAKCAYEA4MGQt5AmBcPTA+8tRL4w2YXKRIVB6kH2CPdDSWH7gmcOnjuO
 ZtCeZAzA3Br99RiuW2mTwimSd4uIXcENKJUAc8LpqSDTaQcF6ugx6hKePiSkGjIm
@@ -127,9 +127,9 @@ HjB7PLJuX9ANDSP58ItUnatYKKLlu4jTW8JE915Ws9ojdxzxTUQo9ujmeTePHLX7
 PZ8xeo3vdrizG3/rPoTCdDrU5oxvyMx7g3498IczSskJrYzUICZwuKk=
 -----END RSA PRIVATE KEY-----
 </PrivateKey>
-<CertificateChain>
-<NumberOfCertificates>3</NumberOfCertificates>
-<Certificate format="pem">
+      <CertificateChain>
+        <NumberOfCertificates>3</NumberOfCertificates>
+        <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
 MIIE3zCCAsegAwIBAgIQM2m508uKBIC/6kl8cB6YkzANBgkqhkiG9w0BAQsFADA5
 MQwwCgYDVQQMDANURUUxKTAnBgNVBAUTIGUwYzM1NDhhNDdlNzNmMmE3NWZiOWVk
@@ -160,7 +160,7 @@ lFKECEDM3/DxN3brCQvnSgRjryg9EBttFaGb5h4+IoO5JmzVJ+j7gR2zDQ98CZvg
 MNGI
 -----END CERTIFICATE-----
 </Certificate>
-<Certificate format="pem">
+        <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
 MIIFQTCCAymgAwIBAgIQYtQ3fMcTehyJlxjFD+BUFDANBgkqhkiG9w0BAQsFADAb
 MRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MB4XDTIwMDkyODIwMTY1MFoXDTMw
@@ -225,7 +225,7 @@ ZutL8VuFkERQGt6vQ2OCw0sV47VMkuYbacK/xyZFiRcrPJPb41zgbQj9XAEyLKCH
 ex0SdDrx+tWUDqG8At2JHA==
 -----END CERTIFICATE-----
 </Certificate>
-</CertificateChain>
-</Key>
-</Keybox>
+      </CertificateChain>
+    </Key>
+  </Keybox>
 </AndroidAttestation>
